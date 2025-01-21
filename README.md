@@ -30,7 +30,7 @@ https://play.google.com/store/apps/details?id=com.metapocket.mobileapp&hl=ko
 
 ## 4) 트레이드
 
-|                     트레이드 상세 페이지                     |                       가격 변동 (차트)                       |                     판매하기 / 구매하기                      |
+|                     트레이드 상세 페이지                     |                      거래가 비교 (차트)                      |                     판매하기 / 구매하기                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="./README.assets/trade.gif" alt="trade" align="center" width="100%" /> | <img src="./README.assets/trade2.gif" alt="trade2" align="center" width="100%" /> | <img src="./README.assets/trade3.gif" alt="trade3" align="center" width="100%" /> |
 
